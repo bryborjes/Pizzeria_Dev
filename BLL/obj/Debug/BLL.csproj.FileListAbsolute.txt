@@ -1,2 +1,0 @@
-C:\Users\bryan\Developer_Proyecs\Mare\Pizzeria_Dev - copia\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
-C:\Users\bryan\Developer_Proyecs\Mare\Pizzeria_Dev - copia\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
