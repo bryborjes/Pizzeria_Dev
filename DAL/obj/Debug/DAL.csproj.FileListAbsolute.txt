@@ -1,2 +1,0 @@
-C:\Users\bryan\Developer_Proyecs\Mare\Pizzeria_Dev - copia\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
-C:\Users\bryan\Developer_Proyecs\Mare\Pizzeria_Dev - copia\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
